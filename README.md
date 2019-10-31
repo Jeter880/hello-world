@@ -1,2 +1,5 @@
 # hello-world
-First Repository
+
+Hi Humans!
+
+Jason here, I like python and github. This is my first project.
